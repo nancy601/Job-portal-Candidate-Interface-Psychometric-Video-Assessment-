@@ -1,5 +1,5 @@
 import React from 'react';
-import PsychometricAssessment from './components/PsychometricAssessment';
+import PsychometricAssessment from './components/VideoAssessment';
 // import CaseStudyAssessment from './components/CaseStudyAssessment';
 
 function App() {
