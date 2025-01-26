@@ -1,4 +1,4 @@
-# Psychometric Assessment Application
+# Video Assessment Application
 
 This React-based application facilitates online psychometric assessments with video recording and speech-to-text capabilities. Key features include:
 
